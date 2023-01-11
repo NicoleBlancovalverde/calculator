@@ -1,0 +1,12 @@
+#ifndef FIGURES_H
+#define FIGURES_H
+class figure{
+private: {
+	float base;
+	float high;
+	float height;
+	
+public 
+		
+}
+#endif
